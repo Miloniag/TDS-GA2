@@ -1,0 +1,5 @@
+name: hello-world
+on: push
+jobs:
+    name: 23f2004003@ds.study.iitm.ac.in
+      run: echo "Hello, world!"
